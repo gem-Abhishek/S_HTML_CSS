@@ -1,0 +1,15 @@
+*{
+    padding: 0;margin: 0;
+    box-sizing: border-box;
+}
+
+div.chain{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(216, 207, 87);
+}
+
+div.chain p{
+    padding: 20px;
+    overflow: hidden;
+}

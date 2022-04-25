@@ -1,0 +1,68 @@
+body{
+    background: rgb(138, 42, 42);
+}
+
+.box {
+    background: rgb(196, 120, 229);
+    margin: 10px;
+}
+
+.parent1 {
+    margin-left: 10px;
+    background: rgb(27, 22, 22);
+    border: 1px solid black;
+    padding:40px
+}
+
+.fifty-percent {
+    width: 50%;
+}
+
+.one-hundred {
+    width: 100px;
+}
+
+.parent1 {
+    width: 250px;
+    ;
+} 
+
+.fifty-vw {
+    width: 50vw;
+}
+
+.twenty-five-vh {
+    height: 25vh;
+}
+
+.parent2 {
+    width: 100px;
+    ;
+}
+
+.parent3 {
+    background: rgb(91, 202, 132);
+    border: 1px solid black;
+}
+.one-rem {
+    font-size: 1rem;
+}
+
+.one-em {
+    font-size: 1em;
+}
+
+.two-rem {
+    font-size: 2rem;
+}
+
+.two-em {
+    font-size: 2em;
+}
+
+.parent3 {
+    font-size: 30px;
+}
+
+
+
